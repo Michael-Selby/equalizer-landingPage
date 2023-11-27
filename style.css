@@ -10,6 +10,7 @@ body {
     background-image: url(bg-main-mobile.png);
     background-repeat: no-repeat;
     background-position-y: -250px;
+    overflow-x: hidden;
   }
   .logo {
     margin-left: 20px;
